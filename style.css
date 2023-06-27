@@ -1,28 +1,18 @@
-
-body {
-  margin: 0 auto;
-  padding: 0 8px;
-  max-width: 800px;
-  min-width: 450px;
-
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 img {
   height: 400px;
-  margin: 0 auto;
 
 }
 
-.img-panda {
-  margin: 0 auto;
-  width: 400px;
+body {
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .headline {
   color: rgba(24, 18, 209, 0.579);
   font-size: 40px;
   text-align: center;
+  
 }
 
 .subheader {
